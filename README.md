@@ -23,6 +23,7 @@ vuex文档 : [https://vuex.vuejs.org/](https://vuex.vuejs.org/)
 数据请求axios : [https://www.npmjs.com/package/axios](https://www.npmjs.com/package/axios)
 
 项目参考 : [https://github.com/zhengguorong/maizuo/tree/master/vuexMaizuo2](https://github.com/zhengguorong/maizuo/tree/master/vuexMaizuo2)
+[https://github.com/ChuckCZC/vue-demo-maizuo/tree/master/vue-demo-maizuo](https://github.com/ChuckCZC/vue-demo-maizuo/tree/master/)
 
 ## 项目结构
 
@@ -53,10 +54,10 @@ app.use('/api',proxyMiddleware({
 
 > ps：只是模仿了以上页面，这几个页面感觉已经包括了vue的常用功能了，后面的页面则是跳去卖座电影的官网了；由于只是几个页面，故各个页面没有将相关的子项分离成组件，如果项目庞大，建议分离成组件形式
 
-##### 最后，如果该demo对你学习vue有帮助，麻烦给个star，谢谢#####
+##### 本想上传demo到分支，因github不支持http链接，所以只能clone下来后运行查看demo了。最后，如果该demo对你学习vue有帮助，麻烦给个star，谢谢#####
 
 
-## Build 
+## Build
 
 ``` bash
 # install dependencies
